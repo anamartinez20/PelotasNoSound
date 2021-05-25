@@ -1,0 +1,1978 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/user/Desktop/AA4 DISSENY DE SO/rollaball_Ana Martinez
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49526
+Successfully changed project path to: /Users/user/Desktop/AA4 DISSENY DE SO/rollaball_Ana Martinez
+/Users/user/Desktop/AA4 DISSENY DE SO/rollaball_Ana Martinez
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 85.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/user/Desktop/AA4 DISSENY DE SO/rollaball_Ana Martinez/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-23 13:04:20.746 Unity[2990:22901] Color LCD preferred device: NVIDIA GeForce GT 650M (high power)
+2021-05-23 13:04:20.746 Unity[2990:22901] Metal devices available: 2
+2021-05-23 13:04:20.746 Unity[2990:22901] 0: NVIDIA GeForce GT 650M (high power)
+2021-05-23 13:04:20.746 Unity[2990:22901] 1: Intel HD Graphics 4000 (low power)
+2021-05-23 13:04:20.748 Unity[2990:22901] Using device NVIDIA GeForce GT 650M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 650M
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56990
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002452 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 80.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.908 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 83.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.729 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2718 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.3 MB.
+System memory in use after: 192.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 3.187495 ms (FindLiveObjects: 0.368373 ms CreateObjectMapping: 0.164959 ms MarkObjects: 2.573754 ms  DeleteObjects: 0.078999 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42baae205c97e3337697759514652acd') in 0.014320 seconds
+  Import took 0.021361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.943762 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68557ce564c9d9a77cbd2523d549ea62') in 0.586819 seconds
+  Import took 0.593531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1859.168226 seconds.
+  path: Assets/Sound design/NewAudioMixer.mixer
+  artifactKey: Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/NewAudioMixer.mixer using Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9836ed22b9b5926d3adad858d5e82f') in 0.020290 seconds
+  Import took 0.053239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223808 seconds.
+  path: Assets/Sound design/NewAudioMixer.mixer
+  artifactKey: Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/NewAudioMixer.mixer using Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9836ed22b9b5926d3adad858d5e82f') in 0.006515 seconds
+  Import took 0.012106 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.878 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2609 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.1 MB.
+System memory in use after: 191.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3164.
+Total: 8.573997 ms (FindLiveObjects: 1.670059 ms CreateObjectMapping: 0.376717 ms MarkObjects: 6.341372 ms  DeleteObjects: 0.182920 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.322919 seconds.
+  path: Assets/Sound design/SONIDO DE FONDO.wav
+  artifactKey: Guid(83cda66ac90c240e8857d990f3788f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/SONIDO DE FONDO.wav using Guid(83cda66ac90c240e8857d990f3788f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca7ca54d9fdf844c0c4a31ef2b2a644') in 0.940625 seconds
+  Import took 0.975520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.028045 seconds.
+  path: Assets/Sound design/NewAudioMixer.mixer
+  artifactKey: Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/NewAudioMixer.mixer using Guid(656c87adabaa64438a88ab2c49cac0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19474a0db8d6ba737cea6a9c1bb01c28') in 0.021428 seconds
+  Import took 0.030054 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.219 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2609 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.8 MB.
+System memory in use after: 199.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3176.
+Total: 4.161975 ms (FindLiveObjects: 0.565506 ms CreateObjectMapping: 0.293565 ms MarkObjects: 3.251553 ms  DeleteObjects: 0.049401 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 232.325645 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62aa870e69f61c809086488662c1c47d') in 0.048744 seconds
+  Import took 0.056477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.428353 seconds.
+  path: Assets/NewAudioMixer 1.mixer
+  artifactKey: Guid(edd3a5042c64f43908a9955ad6b35cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer 1.mixer using Guid(edd3a5042c64f43908a9955ad6b35cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c46fb613231515ac8d2d0fe89a57f76') in 0.015560 seconds
+  Import took 0.022100 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.765 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2609 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.0 MB.
+System memory in use after: 199.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3179.
+Total: 4.338476 ms (FindLiveObjects: 0.901726 ms CreateObjectMapping: 0.199888 ms MarkObjects: 3.186824 ms  DeleteObjects: 0.047998 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 984.072910 seconds.
+  path: Assets/MIXER.mixer
+  artifactKey: Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MIXER.mixer using Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65615544d25fc4c77aa5ace1f267d21d') in 0.038975 seconds
+  Import took 0.048733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164034 seconds.
+  path: Assets/MIXER.mixer
+  artifactKey: Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MIXER.mixer using Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65615544d25fc4c77aa5ace1f267d21d') in 0.008040 seconds
+  Import took 0.013917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.178229 seconds.
+  path: Assets/MIXER.mixer
+  artifactKey: Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MIXER.mixer using Guid(3c8c48894c6f6489ea7efc6709fba9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd96a0b514e9263159b33e5e1f0a9679') in 0.009207 seconds
+  Import took 0.015859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.707624 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088a12abf3f36b2d01a49f307db4dca4') in 0.015349 seconds
+  Import took 0.021727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006498 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088a12abf3f36b2d01a49f307db4dca4') in 0.015226 seconds
+  Import took 0.020713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.608207 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce8402e431644aaa0d0e20e26990423') in 0.008407 seconds
+  Import took 0.014482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025019 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce8402e431644aaa0d0e20e26990423') in 0.008059 seconds
+  Import took 0.013815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.690540 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fba4a0b0b41aca87c8b8c0b29e768e1') in 0.008160 seconds
+  Import took 0.015338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.787995 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed14ed99b7261cf4033dcca0da8525d') in 0.008259 seconds
+  Import took 0.014849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027233 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed14ed99b7261cf4033dcca0da8525d') in 0.008199 seconds
+  Import took 0.014025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.274521 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a7400ff28c7f5ba054de003591a518') in 0.008223 seconds
+  Import took 0.014724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.822142 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de670f4c055b83252869e589b74057c') in 0.008141 seconds
+  Import took 0.014640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022945 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de670f4c055b83252869e589b74057c') in 0.008226 seconds
+  Import took 0.013789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.260519 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6b8a771b65b49bbc8862717516432d') in 0.008301 seconds
+  Import took 0.013716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023601 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6b8a771b65b49bbc8862717516432d') in 0.008565 seconds
+  Import took 0.014275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.389919 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31719ee5c2f51a459190887f809cc7d') in 0.008905 seconds
+  Import took 0.015604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.838685 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0ba285f5748cbc7a60c9a29f9ac442') in 0.008270 seconds
+  Import took 0.014549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022957 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0ba285f5748cbc7a60c9a29f9ac442') in 0.008491 seconds
+  Import took 0.014048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.751925 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801ed51b1d591157f025954c4d69fbf9') in 0.008477 seconds
+  Import took 0.015161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.036103 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14433fb60851762e887ca3af8e433738') in 0.008482 seconds
+  Import took 0.014874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022603 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14433fb60851762e887ca3af8e433738') in 0.008647 seconds
+  Import took 0.014320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.265985 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f57eebc317cb67e432765bd054204a1') in 0.008617 seconds
+  Import took 0.014853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1470.141771 seconds.
+  path: Assets/Sound design/BLOQUES GRANDES.wav
+  artifactKey: Guid(899e5e652ca4d40c59eb09c681c7d005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BLOQUES GRANDES.wav using Guid(899e5e652ca4d40c59eb09c681c7d005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a1d2e044823bab1d049fcbedee897a') in 0.335986 seconds
+  Import took 0.379745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001203 seconds.
+  path: Assets/Sound design/BLOQUES PEQUEÑOS.wav
+  artifactKey: Guid(b7410b407b4c84bb6a062f38e1cf7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BLOQUES PEQUEÑOS.wav using Guid(b7410b407b4c84bb6a062f38e1cf7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e93d9c3b7d9bd5407d9a41b463ec9bf') in 0.021757 seconds
+  Import took 0.030114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Sound design/BLOQUES PEQUEÑOS.wav
+  artifactKey: Guid(b7410b407b4c84bb6a062f38e1cf7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BLOQUES PEQUEÑOS.wav using Guid(b7410b407b4c84bb6a062f38e1cf7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e93d9c3b7d9bd5407d9a41b463ec9bf') in 0.022165 seconds
+  Import took 0.029273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.801469 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3eee14a38fcf7975db198b1fbba68c0') in 0.019599 seconds
+  Import took 0.026375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075969 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3eee14a38fcf7975db198b1fbba68c0') in 0.009244 seconds
+  Import took 0.014955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.630048 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7b3c0c49869b4158159d79df29d31d') in 0.010691 seconds
+  Import took 0.018616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.789218 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aae74e221054b63ade5516e15b82892') in 0.013864 seconds
+  Import took 0.020578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022069 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aae74e221054b63ade5516e15b82892') in 0.008943 seconds
+  Import took 0.014461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.698227 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b7f375b0b4840f3d93e451bf9164eb') in 0.008764 seconds
+  Import took 0.015958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021537 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b7f375b0b4840f3d93e451bf9164eb') in 0.009223 seconds
+  Import took 0.014711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.766502 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8813b9f9a4de4ae57d55839d7f8383da') in 0.009192 seconds
+  Import took 0.016202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.656897 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d9d454b2d8b96ca3fd1a7a914b0b57') in 0.009219 seconds
+  Import took 0.015130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022566 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d9d454b2d8b96ca3fd1a7a914b0b57') in 0.009566 seconds
+  Import took 0.015071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.539383 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3389555e4e89217cb123267bb0fabc') in 0.008754 seconds
+  Import took 0.015717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.364979 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fde0a118f8e7b4187a67740bb01e37') in 0.008595 seconds
+  Import took 0.014969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022572 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fde0a118f8e7b4187a67740bb01e37') in 0.009562 seconds
+  Import took 0.015189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.533355 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6622af7e2a240cd7257e64d40f45e0') in 0.009423 seconds
+  Import took 0.016161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021058 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6622af7e2a240cd7257e64d40f45e0') in 0.009014 seconds
+  Import took 0.014532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.612382 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79f9554ec10f746e4f40061053d672f') in 0.010261 seconds
+  Import took 0.018042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.384202 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6257965036e88abf98606985d6552b') in 0.009234 seconds
+  Import took 0.016139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.981617 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8a87e55b4daeab2c909a3cac6096a5') in 0.009022 seconds
+  Import took 0.015871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.751974 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd269b63bf1cb2d9bbc8fab95e9fa3af3') in 0.008798 seconds
+  Import took 0.015768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021629 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd269b63bf1cb2d9bbc8fab95e9fa3af3') in 0.009365 seconds
+  Import took 0.015010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.163959 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104d202976f5e6d8ef7330daa1b624bb') in 0.010033 seconds
+  Import took 0.017101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.762517 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20763266e4715d49b75d2ab11059c379') in 0.009477 seconds
+  Import took 0.016313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028407 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20763266e4715d49b75d2ab11059c379') in 0.009292 seconds
+  Import took 0.015379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.191473 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ebb62d877bc4764b05f800bdc3337d') in 0.009408 seconds
+  Import took 0.016278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.773040 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c892277940b621317186d76f27046a') in 0.009138 seconds
+  Import took 0.015462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022247 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c892277940b621317186d76f27046a') in 0.009187 seconds
+  Import took 0.015070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.725831 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb202118db1e17d9550408ad9b7e829') in 0.010306 seconds
+  Import took 0.017392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.445590 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22fe0f3b267b979847061929d6cd7ec') in 0.008839 seconds
+  Import took 0.015970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022087 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22fe0f3b267b979847061929d6cd7ec') in 0.009129 seconds
+  Import took 0.014575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.619164 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5034c1f5a3a270093f62a9c293af9311') in 0.009891 seconds
+  Import took 0.016866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.254893 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7521440076c9647eddb392b981db60') in 0.008975 seconds
+  Import took 0.015344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023709 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7521440076c9647eddb392b981db60') in 0.010271 seconds
+  Import took 0.015951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.946519 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbd4d06e0e987ce821998f2f63d1912') in 0.009174 seconds
+  Import took 0.014977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.374966 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c538bd66d590a83acbbe4b9275fd6bf2') in 0.009865 seconds
+  Import took 0.016360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.422809 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4981b40e3f7fa4c3db0e855b7176b4e') in 0.009007 seconds
+  Import took 0.015158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027259 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4981b40e3f7fa4c3db0e855b7176b4e') in 0.009067 seconds
+  Import took 0.014992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.017894 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efd96a3ac0008f4b57355689252abe0') in 0.008550 seconds
+  Import took 0.014936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.875304 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9dc784f20556cc37d9f698494c2ecf') in 0.009663 seconds
+  Import took 0.015615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024875 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9dc784f20556cc37d9f698494c2ecf') in 0.009523 seconds
+  Import took 0.015134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.211414 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc993a8fa790fdd69faf442aa055022f') in 0.009828 seconds
+  Import took 0.016180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031084 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc993a8fa790fdd69faf442aa055022f') in 0.009964 seconds
+  Import took 0.015484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.653162 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37d093eb411eaaa151fa45a857f3900') in 0.009597 seconds
+  Import took 0.016607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.392829 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bea91bcfba0c7ff974eb8aec410699f') in 0.009378 seconds
+  Import took 0.015959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022159 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bea91bcfba0c7ff974eb8aec410699f') in 0.008845 seconds
+  Import took 0.014696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.984459 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873edfed37113d1139b1a6ce0b132a05') in 0.009300 seconds
+  Import took 0.016450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.610719 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a32a6cb97208965f7fd6fc3a701f2f0') in 0.008092 seconds
+  Import took 0.014215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.044496 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c781a98861ba93231a0639a7e1ef586c') in 0.008983 seconds
+  Import took 0.015973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021915 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c781a98861ba93231a0639a7e1ef586c') in 0.009534 seconds
+  Import took 0.015381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.509357 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073a07cf57a2e6b1e950941818b7c6c3') in 0.009003 seconds
+  Import took 0.016008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021692 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073a07cf57a2e6b1e950941818b7c6c3') in 0.009311 seconds
+  Import took 0.014990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.677443 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6776730a2607dd6ee658dfeb048fdfd') in 0.009215 seconds
+  Import took 0.016184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.495681 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90cd5d0f5c0c1153426e79efa5cefe21') in 0.009089 seconds
+  Import took 0.015690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023024 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90cd5d0f5c0c1153426e79efa5cefe21') in 0.009401 seconds
+  Import took 0.014989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.135441 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222a58cbf8a325341e82af439cc23557') in 0.008690 seconds
+  Import took 0.015869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 845.672150 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d56732837a77f825725ff6058e9ea44') in 0.024481 seconds
+  Import took 0.058402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027811 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d56732837a77f825725ff6058e9ea44') in 0.012536 seconds
+  Import took 0.018434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.739658 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a377199f60ffa955c43a6269e15312eb') in 0.011592 seconds
+  Import took 0.019009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.123419 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c7ab9228acaa20c598d41f48c373be') in 0.011941 seconds
+  Import took 0.018993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.348589 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '594e30953826b50c0ab6990d1a7c5c2f') in 0.011889 seconds
+  Import took 0.018307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019614 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '594e30953826b50c0ab6990d1a7c5c2f') in 0.012100 seconds
+  Import took 0.018203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.641979 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568c0cd6a9e7a2d8e704eb727e236847') in 0.011499 seconds
+  Import took 0.017772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.275849 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb93576dcdbf875eaf827e47bb85532b') in 0.011886 seconds
+  Import took 0.017438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020738 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb93576dcdbf875eaf827e47bb85532b') in 0.011819 seconds
+  Import took 0.017654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.500967 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebced68dced3f012b86997bf5fa26071') in 0.013693 seconds
+  Import took 0.020924 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.4 MB.
+System memory in use after: 199.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3184.
+Total: 6.317127 ms (FindLiveObjects: 1.042594 ms CreateObjectMapping: 0.236862 ms MarkObjects: 4.451115 ms  DeleteObjects: 0.584223 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 802.606309 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54f0f2be49b261f0876eb351cce5aa7') in 0.132461 seconds
+  Import took 0.173640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033898 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54f0f2be49b261f0876eb351cce5aa7') in 0.015527 seconds
+  Import took 0.022390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.528432 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c477baf213580232f95b2feff8faf1') in 0.012403 seconds
+  Import took 0.017849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019649 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c477baf213580232f95b2feff8faf1') in 0.013037 seconds
+  Import took 0.019244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.022820 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1267ae1f62691628d3bef8e48d4f8ac') in 0.017132 seconds
+  Import took 0.023512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 198.732627 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8492dfcdc42bf8145964b88c85928dd') in 0.013088 seconds
+  Import took 0.019743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018320 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8492dfcdc42bf8145964b88c85928dd') in 0.013742 seconds
+  Import took 0.019920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.886896 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db15b710418887bd6ac090899526d0f') in 0.013381 seconds
+  Import took 0.020425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524194 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c30c46f16c3b92a92c7114c8a3535f') in 0.012335 seconds
+  Import took 0.018115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019598 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c30c46f16c3b92a92c7114c8a3535f') in 0.012314 seconds
+  Import took 0.017947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.880373 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd8aed601ad5e48faf851e5a58c8c1d') in 0.012964 seconds
+  Import took 0.019180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.086455 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b07ea905c448c26fd91f72ab0e1c1e') in 0.012069 seconds
+  Import took 0.018123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018790 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b07ea905c448c26fd91f72ab0e1c1e') in 0.012962 seconds
+  Import took 0.019154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.558890 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0db16baaa83b3dbf0695fbea34a1fb') in 0.013103 seconds
+  Import took 0.019720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.701581 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcd588119dbea8127a5548975287643') in 0.013865 seconds
+  Import took 0.019356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018327 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcd588119dbea8127a5548975287643') in 0.013611 seconds
+  Import took 0.019570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.563342 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562f2f3c2a256245f21a06027668e202') in 0.013672 seconds
+  Import took 0.019591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.165640 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5226307bd49ef4cade34346fe92493f') in 0.026357 seconds
+  Import took 0.059921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.417535 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044d7053e269a7850c5e533230f913db') in 0.013982 seconds
+  Import took 0.020643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 981.290294 seconds.
+  path: Assets/Sound design/BOUNCER.wav
+  artifactKey: Guid(e15079b7d4bbd4bf2a3928f8c755e1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BOUNCER.wav using Guid(e15079b7d4bbd4bf2a3928f8c755e1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56cbbd46b520b5c9c6237e42ed89ad2') in 0.397043 seconds
+  Import took 0.441058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/Sound design/PLAYER.wav
+  artifactKey: Guid(a0c6e87bb80d74ebe86c552c4a3cf95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER.wav using Guid(a0c6e87bb80d74ebe86c552c4a3cf95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f848686456b15bce6c2b3557c65d07d') in 0.021692 seconds
+  Import took 0.029255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 706.416960 seconds.
+  path: Assets/Sound design/BOUNCER MOVEMENT.wav
+  artifactKey: Guid(0448d1a62cdd64a228ae676bbcba5067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BOUNCER MOVEMENT.wav using Guid(0448d1a62cdd64a228ae676bbcba5067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946b5b1d64c8591109921082f133f9b4') in 0.164419 seconds
+  Import took 0.206670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sound design/PLAYER MOVEMENT.wav
+  artifactKey: Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER MOVEMENT.wav using Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11380729ff683eaa82fae5410a6d7aa') in 0.025768 seconds
+  Import took 0.033971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 439.189095 seconds.
+  path: Assets/Sound design/COLISION BOUNCE.wav
+  artifactKey: Guid(2e8be3683092f4cccbb0266931e3563e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/COLISION BOUNCE.wav using Guid(2e8be3683092f4cccbb0266931e3563e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33c731364db9bbfadf825d5a896ee03') in 0.275995 seconds
+  Import took 0.285560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Sound design/COLISION PLAYER.wav
+  artifactKey: Guid(8d8a85f3228564aef9c89d4421d2e28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/COLISION PLAYER.wav using Guid(8d8a85f3228564aef9c89d4421d2e28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a74be0663ef27b644991a1fc3b081b') in 0.029945 seconds
+  Import took 0.039674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015143 seconds.
+  path: Assets/Sound design/COLISION PLAYER.wav
+  artifactKey: Guid(8d8a85f3228564aef9c89d4421d2e28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/COLISION PLAYER.wav using Guid(8d8a85f3228564aef9c89d4421d2e28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a74be0663ef27b644991a1fc3b081b') in 0.113930 seconds
+  Import took 0.119817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.451052 seconds.
+  path: Assets/Sound design/BOUNCER COLISION.wav
+  artifactKey: Guid(50f55dee184ae4c0c803f742b3522120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BOUNCER COLISION.wav using Guid(50f55dee184ae4c0c803f742b3522120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4003bccc226a8b83f14acbbf9d3a73') in 0.045607 seconds
+  Import took 0.051913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Sound design/PLAYER COLISION.wav
+  artifactKey: Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER COLISION.wav using Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fc6fa5e0d340ac9191df94d22e4aa8') in 0.023251 seconds
+  Import took 0.029581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030954 seconds.
+  path: Assets/Sound design/PLAYER COLISION.wav
+  artifactKey: Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER COLISION.wav using Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fc6fa5e0d340ac9191df94d22e4aa8') in 0.021711 seconds
+  Import took 0.028870 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004838 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.911 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.3 MB.
+System memory in use after: 200.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3188.
+Total: 3.507630 ms (FindLiveObjects: 0.396262 ms CreateObjectMapping: 0.126021 ms MarkObjects: 2.925636 ms  DeleteObjects: 0.057551 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 723.460235 seconds.
+  path: Assets/Sound design/BOUNCER MOVEMENT.wav
+  artifactKey: Guid(0448d1a62cdd64a228ae676bbcba5067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/BOUNCER MOVEMENT.wav using Guid(0448d1a62cdd64a228ae676bbcba5067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7837dc5e6054bb655607f86cb77cf1c0') in 0.211678 seconds
+  Import took 0.218852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Sound design/PLAYER COLISION.wav
+  artifactKey: Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER COLISION.wav using Guid(14da47bc038d449949ab67ce766a6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8df531d19e85fd12fe8dc83e5ec8478') in 0.024577 seconds
+  Import took 0.031503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sound design/PLAYER MOVEMENT.wav
+  artifactKey: Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER MOVEMENT.wav using Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e807337cc8b1c2313abe7eecaea628ce') in 0.029284 seconds
+  Import took 0.037946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020525 seconds.
+  path: Assets/Sound design/PLAYER MOVEMENT.wav
+  artifactKey: Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound design/PLAYER MOVEMENT.wav using Guid(ea6c6fd6842594900b616872e55a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e807337cc8b1c2313abe7eecaea628ce') in 0.023277 seconds
+  Import took 0.030708 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002905 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.668 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.7 MB.
+System memory in use after: 200.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 3.463605 ms (FindLiveObjects: 0.555819 ms CreateObjectMapping: 0.188072 ms MarkObjects: 2.665621 ms  DeleteObjects: 0.050958 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4277.538620 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b054f707216b936272c782d886f9bad2') in 0.093530 seconds
+  Import took 0.132343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010771 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b054f707216b936272c782d886f9bad2') in 0.014330 seconds
+  Import took 0.021096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.164682 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e45c8f7e8d3be11c18f01ffea4bc3e') in 0.499547 seconds
+  Import took 0.505543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.660365 seconds.
+  path: Assets/AUDIOPLAYER.cs
+  artifactKey: Guid(0fb66cde64d984d38847f589d65f7cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AUDIOPLAYER.cs using Guid(0fb66cde64d984d38847f589d65f7cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7606c50cb947a0ac2b60fb748c78a364') in 0.005622 seconds
+  Import took 0.011718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001400 seconds.
+  path: Assets/AUDIOPLAYER.cs
+  artifactKey: Guid(0fb66cde64d984d38847f589d65f7cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AUDIOPLAYER.cs using Guid(0fb66cde64d984d38847f589d65f7cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7606c50cb947a0ac2b60fb748c78a364') in 0.004323 seconds
+  Import took 0.010285 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.487 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.1 MB.
+System memory in use after: 205.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3195.
+Total: 3.231245 ms (FindLiveObjects: 0.440845 ms CreateObjectMapping: 0.250738 ms MarkObjects: 2.518197 ms  DeleteObjects: 0.019794 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002885 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.3 MB.
+System memory in use after: 205.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3198.
+Total: 3.036741 ms (FindLiveObjects: 0.405818 ms CreateObjectMapping: 0.217526 ms MarkObjects: 2.393069 ms  DeleteObjects: 0.018484 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 786.137373 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c581d37be4d7ada5900ca331ac52512b') in 0.009532 seconds
+  Import took 0.017746 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.478 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.6 MB.
+System memory in use after: 205.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 3.084591 ms (FindLiveObjects: 0.391512 ms CreateObjectMapping: 0.193527 ms MarkObjects: 2.479557 ms  DeleteObjects: 0.017516 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 757.223745 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42d65e37f72f10281e7e1e5349c73e9') in 0.007919 seconds
+  Import took 0.013391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.192081 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42d65e37f72f10281e7e1e5349c73e9') in 0.005074 seconds
+  Import took 0.010553 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.8 MB.
+System memory in use after: 206.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3204.
+Total: 2.690674 ms (FindLiveObjects: 0.352194 ms CreateObjectMapping: 0.114596 ms MarkObjects: 2.201330 ms  DeleteObjects: 0.019411 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1379.120861 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6bb986c13f04717f56589c0f682df2') in 0.008650 seconds
+  Import took 0.014677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.639608 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc8a6a6f35294bd812cffaa824f9660') in 0.005212 seconds
+  Import took 0.010757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078306 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc8a6a6f35294bd812cffaa824f9660') in 0.004566 seconds
+  Import took 0.010587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.739152 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470b56895757a79ed2588d9307642d56') in 0.004313 seconds
+  Import took 0.012175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012700 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470b56895757a79ed2588d9307642d56') in 0.005508 seconds
+  Import took 0.011723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.509122 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a867dfb2f481dc9dd60c0edf1078f61d') in 0.003934 seconds
+  Import took 0.010185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012492 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a867dfb2f481dc9dd60c0edf1078f61d') in 0.004309 seconds
+  Import took 0.009993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.549086 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250cc7826d159259881316335dded96b') in 0.005495 seconds
+  Import took 0.011974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072278 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250cc7826d159259881316335dded96b') in 0.004506 seconds
+  Import took 0.010244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.001878 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b910f667e664abda76ce88667dcba51') in 0.003968 seconds
+  Import took 0.009873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.597014 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217f510d1be357c2a3e17bc87e6cda6b') in 0.004155 seconds
+  Import took 0.010151 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.0 MB.
+System memory in use after: 206.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 2.720402 ms (FindLiveObjects: 0.364435 ms CreateObjectMapping: 0.115508 ms MarkObjects: 2.220924 ms  DeleteObjects: 0.018060 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.823767 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec338843f964b10bf1eb316a73bcc0b') in 0.008094 seconds
+  Import took 0.014047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131122 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec338843f964b10bf1eb316a73bcc0b') in 0.004279 seconds
+  Import took 0.009994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.334382 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f70d4e57b67674eaff55d31abe02de7') in 0.021483 seconds
+  Import took 0.027031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085054 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f70d4e57b67674eaff55d31abe02de7') in 0.011800 seconds
+  Import took 0.016990 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002623 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.2 MB.
+System memory in use after: 206.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3210.
+Total: 2.728356 ms (FindLiveObjects: 0.364105 ms CreateObjectMapping: 0.132929 ms MarkObjects: 2.213114 ms  DeleteObjects: 0.016184 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.885976 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf0fb365dbed4f8c4a2dfcf3321cdf5') in 0.029961 seconds
+  Import took 0.035583 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.471 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.4 MB.
+System memory in use after: 206.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3213.
+Total: 2.741088 ms (FindLiveObjects: 0.313857 ms CreateObjectMapping: 0.114601 ms MarkObjects: 2.292915 ms  DeleteObjects: 0.018083 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.362327 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d544636c2f231b5594acf1b98607a7') in 0.026096 seconds
+  Import took 0.031936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003367 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d544636c2f231b5594acf1b98607a7') in 0.010815 seconds
+  Import took 0.017075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.353843 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c536993a5ba7e64afae49740c7ce9261') in 0.014968 seconds
+  Import took 0.020941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027133 seconds.
+  path: Assets/NewAudioMixer.mixer
+  artifactKey: Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewAudioMixer.mixer using Guid(22eeb1e0bc9d247d6a0cb4789efc55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c536993a5ba7e64afae49740c7ce9261') in 0.014037 seconds
+  Import took 0.019861 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.460 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.7 MB.
+System memory in use after: 206.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3216.
+Total: 2.776872 ms (FindLiveObjects: 0.381893 ms CreateObjectMapping: 0.142963 ms MarkObjects: 2.233074 ms  DeleteObjects: 0.016542 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 264.461496 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c787e5ecf5f8a03400473f7d254d4f6b') in 0.008349 seconds
+  Import took 0.014948 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005475 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.480 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.9 MB.
+System memory in use after: 207.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3219.
+Total: 3.344271 ms (FindLiveObjects: 0.411627 ms CreateObjectMapping: 0.251897 ms MarkObjects: 2.660338 ms  DeleteObjects: 0.018838 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.418 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.1 MB.
+System memory in use after: 207.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3222.
+Total: 2.776397 ms (FindLiveObjects: 0.358181 ms CreateObjectMapping: 0.115102 ms MarkObjects: 2.282180 ms  DeleteObjects: 0.019770 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 336.166924 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf59abc7e4f840c412cbd7840a9e433') in 0.008978 seconds
+  Import took 0.016140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.304624 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf59abc7e4f840c412cbd7840a9e433') in 0.005233 seconds
+  Import took 0.011072 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002659 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.476 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.3 MB.
+System memory in use after: 207.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3225.
+Total: 2.606987 ms (FindLiveObjects: 0.357370 ms CreateObjectMapping: 0.105682 ms MarkObjects: 2.122140 ms  DeleteObjects: 0.016670 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.037743 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc37a4d237a4ca93e508740b5c75ba35') in 0.008952 seconds
+  Import took 0.015542 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.5 MB.
+System memory in use after: 207.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3228.
+Total: 3.248980 ms (FindLiveObjects: 0.437798 ms CreateObjectMapping: 0.267918 ms MarkObjects: 2.520571 ms  DeleteObjects: 0.020075 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.448728 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce05983fb480a0d84fce555c345b9df') in 0.009271 seconds
+  Import took 0.015143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.043967 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce05983fb480a0d84fce555c345b9df') in 0.005249 seconds
+  Import took 0.010297 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.7 MB.
+System memory in use after: 207.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3231.
+Total: 3.506581 ms (FindLiveObjects: 0.513793 ms CreateObjectMapping: 0.277170 ms MarkObjects: 2.694841 ms  DeleteObjects: 0.019169 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.497 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.0 MB.
+System memory in use after: 208.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3234.
+Total: 3.411470 ms (FindLiveObjects: 0.329902 ms CreateObjectMapping: 0.126185 ms MarkObjects: 2.930953 ms  DeleteObjects: 0.022442 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.883268 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27a47f828db11ac7847854e3f6775b2') in 0.008108 seconds
+  Import took 0.014054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.168623 seconds.
+  path: Assets/PlayerAudioController.cs
+  artifactKey: Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerAudioController.cs using Guid(a4cbb3c30d0d141479995d033d29c910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27a47f828db11ac7847854e3f6775b2') in 0.004639 seconds
+  Import took 0.011031 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.522 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.2 MB.
+System memory in use after: 208.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3237.
+Total: 2.680624 ms (FindLiveObjects: 0.331675 ms CreateObjectMapping: 0.107096 ms MarkObjects: 2.221784 ms  DeleteObjects: 0.017131 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.464 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.4 MB.
+System memory in use after: 208.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 2.657600 ms (FindLiveObjects: 0.341766 ms CreateObjectMapping: 0.110443 ms MarkObjects: 2.184217 ms  DeleteObjects: 0.018905 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002730 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.455 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.6 MB.
+System memory in use after: 208.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3244.
+Total: 2.897201 ms (FindLiveObjects: 0.352873 ms CreateObjectMapping: 0.128594 ms MarkObjects: 2.395715 ms  DeleteObjects: 0.018439 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.9 MB.
+System memory in use after: 209.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3247.
+Total: 3.445499 ms (FindLiveObjects: 0.473217 ms CreateObjectMapping: 0.164837 ms MarkObjects: 2.782007 ms  DeleteObjects: 0.022839 ms)
+
